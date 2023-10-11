@@ -4,6 +4,7 @@ import Features from "./Features";
 import Testimonial from "./testimonial";
 import CTA from "./CTA";
 import Footer from "./Footer";
+import NavbarV2 from "./NavbarV2";
 
 export {
     Navbar,
@@ -12,4 +13,5 @@ export {
     Testimonial,
     CTA,
     Footer,
+    NavbarV2,
 };
